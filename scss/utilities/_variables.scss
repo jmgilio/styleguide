@@ -1,0 +1,31 @@
+// Descriptive color variables
+
+$gray: #777;
+$turqoise: #58e1c1;
+$aqua: #51ddfc;
+$white: #fff;
+$light-purple: #deb2ee;
+
+// Functional color variables
+
+$color-text-base: $gray;
+$color-headline-primary: $turqoise;
+$color-link-style: $aqua;
+$color-base: $white;
+$color-col-3: $light-purple;
+
+// Media query breakpoints
+
+$break-narrow: '(min-width: 768px)';
+
+// Font Stacks
+
+$stack-lato: 'Lato', sans-serif;
+
+// Border Radius
+
+$br: 5px;
+
+// Font Weight
+
+$fw: 300;

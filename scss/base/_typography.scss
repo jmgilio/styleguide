@@ -1,0 +1,51 @@
+
+/* ============================================= */
+/*              Base styles                      */
+/* ============================================= */
+
+* {
+    font-family: $stack-lato;
+    color: $color-text-base;
+    box-sizing: border-box;
+  }
+  
+  p {
+    line-height: 1.45em;
+  }
+  
+  a {
+    text-decoration: none;
+  }
+  
+  
+  /* ============================================= */
+  /*              Typography                       */
+  /* ============================================= */
+  
+  .headline-primary {
+    color: $color-headline-primary;
+    margin-left: 10px;
+  }
+  
+  .headline-secondary {
+    font-weight: $fw;
+    color: $color-text-base;
+  }
+  
+  .link {
+    color: $color-link-style;
+    font-weight: 700;
+  }
+  
+  .blockquote {
+    font-size: 1.5em;
+    font-weight: $fw;
+    font-style: italic;
+    margin-left: 20px;
+    padding-left: 20px;
+    border-left: 8px solid $color-headline-primary;
+    border-radius: $br;
+  }
+  
+  
+  
